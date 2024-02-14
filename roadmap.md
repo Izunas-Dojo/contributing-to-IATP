@@ -31,6 +31,20 @@ TODO
 TODO
 
 ## Windy x Windam Website
+### Archive
+FINISHED
+
+#### Index/Top
+TODO
+#### Introduction
+TODO
+#### System
+TODO
+#### Character
+TODO
+#### Special
+TODO
+#### Tokuten
 TODO
 
 ## Rondo of Swords Website
