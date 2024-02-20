@@ -9,4 +9,6 @@ All text relevant to the project is in .txt files. Every game's site has its own
 
 While not absolutely required, it's good etiquette to update the roadmap yourself when committing a significant edit to the repo.
 
+When making a change to a text file, please DO NOT play around with the line breaks. Spacing things properly is my responsibility alone. This is to prevent issues when re-inserting translated text into the raw files.
+
 If you're not sure about an edit you want to make, please submit an issue, and I will respond ASAP. Thanks in advance!
