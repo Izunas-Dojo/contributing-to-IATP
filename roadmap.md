@@ -1,9 +1,12 @@
 # ROADMAP
+
 ## Izuna 1 Website
+
 ### Archive
 FINISHED
 
 ### Translation
+
 #### Index
 TODO
 #### Frame_1/Prologue
@@ -28,9 +31,12 @@ TODO
 TODO
 
 ## Izuna 2 Website
-TODO
+
+### Archive
+FINISHED
 
 ## Windy x Windam Website
+
 ### Archive
 FINISHED
 
@@ -48,4 +54,13 @@ TODO
 TODO
 
 ## Rondo of Swords Website
+TODO
+
+## Tactical Guild Website
+TODO
+
+## Tactics Layer: Ritina Guard Senki Website
+TODO
+
+## Drone Tactics Website
 TODO
